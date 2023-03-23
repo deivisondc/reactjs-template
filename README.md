@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) template
+This is a [ReactJS](https://react.dev/) template using [Vite](https://vitejs.dev/)
 
 ## Cloning
 
